@@ -1,7 +1,7 @@
 // this is the project files
 require('./index.html');
 require('./main.scss');
-require('./images/Poster1.jpg');
+// require('./images/Poster1.jpg');
 require('../node_modules/materialize-css/sass/materialize.scss');
 require('../node_modules/material-icons/iconfont/material-icons.scss');
 
